@@ -1,2 +1,2 @@
-# Roku-HelloWorld
-a simple hello world application
+# hello-world
+A basic sample channel application for Roku
